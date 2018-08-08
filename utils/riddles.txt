@@ -1,0 +1,2510 @@
+[
+  [
+    "I get wet when drying. I get dirty when wiping. What am I?", 
+    "Towel"
+  ], 
+  [
+    "I can be cracked, made, told, and played. What am I?", 
+    "Joke"
+  ], 
+  [
+    "I wiggle and cannot see, sometimes underground and sometimes on a tree. I really don't want to be on a hook, and I become a person when combined with book. What am I?", 
+    "Worm"
+  ], 
+  [
+    "I like to twirl my body but keep my head up high. After I go in, everything becomes tight. What am I?", 
+    "Screw"
+  ], 
+  [
+    "I am gentle enough to soothe your skin, light enough to fly in the sky, strong enough to crack rocks. What am I?", 
+    "Water"
+  ], 
+  [
+    "I can fly but I have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?", 
+    "Cloud"
+  ], 
+  [
+    "Although I may have eyes, I cannot see. I have a round brown face with lots of acne. What am I?", 
+    "Potato"
+  ], 
+  [
+    "I eat, I live, I breathe, I live, I drink, I die. What am I?", 
+    "Fire"
+  ], 
+  [
+    "I am a seed with three letters in my name. Take away the last two and I still sound the same. What am I?", 
+    "Pea"
+  ], 
+  [
+    "I am lighter than air but a hundred people cannot lift me. Careful, I am fragile. What am I?", 
+    "Bubble"
+  ], 
+  [
+    "Although glory but not at my best. Power will fall to me finally, when the man made me is dead. What am I?", 
+    "Prince"
+  ], 
+  [
+    "I am the type of room you can not enter or leave. Raise from the ground below. I could be poisonous or a delicious treat. What am I?", 
+    "Mushroom"
+  ], 
+  [
+    "The more you take of me, the more you leave behind. What am I?", 
+    "Footstep"
+  ], 
+  [
+    "I go up and never come down no matter how hard you wish. As I get higher, more wrinkles crawl on to the face. What am I?", 
+    "Age"
+  ], 
+  [
+    "I can be long or short. I can be grown or bought. I can be painted or left bare. My tip can be round or square. (one word) What am I?", 
+    "Fingernails"
+  ], 
+  [
+    "I have a neck and no head, two arms but no hands. I'm with you to school, I'm with you to work. What am I?", 
+    "Shirt"
+  ], 
+  [
+    "I shrink smaller every time I take a bath. What am I?", 
+    "Soap"
+  ], 
+  [
+    "I am heavy forward, but backward I'm not. What am I?", 
+    "Ton"
+  ], 
+  [
+    "I wear a green jacket on the outside, white jacket as a second layer, and red jacket inside. I am pregnant with a lot of babies. What am I?", 
+    "Watermelon"
+  ], 
+  [
+    "I am good at concealing what's real and hide what's true. Sometime, I bring out the courage in you! What am I?", 
+    "Makeup"
+  ], 
+  [
+    "I have a face but no eyes, hands but no arms. What am I?", 
+    "Clock"
+  ], 
+  [
+    "With three eyes and as black as night, I frequently knock down ten men with a single strike! What am I?", 
+    "Bowling Ball"
+  ], 
+  [
+    "I grown from darkness but shine with a pale light. Very round I am, and always a lady's delight. What am I?", 
+    "Pearl"
+  ], 
+  [
+    "I am owned by every man, though my length differs. Their wives uses me after getting married. What am I?", 
+    "Last Name"
+  ], 
+  [
+    "I'm white; perfect for cutting & grinding. For most animals I am a useful tool. What am I?", 
+    "Teeth"
+  ], 
+  [
+    "I am always around you but often forgotten. I am pure and clean most time, but occasionally rotten. What am I?", 
+    "Air"
+  ], 
+  [
+    "I am the only thing that place today before yesterday. What am I?", 
+    "Dictionary"
+  ], 
+  [
+    "I may only be given but never bought. Sinners seek me but saints do not. What am I?", 
+    "Forgiveness"
+  ], 
+  [
+    "I will disappear every time you say my name. What am I?", 
+    "Silence"
+  ], 
+  [
+    "I have two bodies joined together as one. When standing still. I ran and ran. What am I?", 
+    "Hourglass"
+  ], 
+  [
+    "The more you take away from me, the bigger I shall get. What am I?", 
+    "Hole"
+  ], 
+  [
+    "I jump when I walk and sit when I stand. What am I?", 
+    "Kangaroo"
+  ], 
+  [
+    "I have fangs and enjoy piecing holes with a single bit. What am I?", 
+    "Stapler"
+  ], 
+  [
+    "I have three eyes and only one leg. Obey me or you will be sorry. What am I?", 
+    "Traffic Light"
+  ], 
+  [
+    "I have a straight back and sharp teeth to cut objects. What am I?", 
+    "Saw"
+  ], 
+  [
+    "You can catch me but cannot throw me. What am I?", 
+    "Cold"
+  ], 
+  [
+    "Taken from a mine and then locked up in a wooden case. Never released but used by students everyday. What am I?", 
+    "Lead"
+  ], 
+  [
+    "I can never be stolen from you. I am owned by everyone. Some have more, some have less. What am I?", 
+    "Knowledge"
+  ], 
+  [
+    "I am a mother from a family of eight. Spins around all day despite my weight. Had a ninth sibling before founding out its fake. What am I?", 
+    "Earth"
+  ], 
+  [
+    "The more you have me the less you see. Shine a light on me and I flea. What am I?", 
+    "Darkness"
+  ], 
+  [
+    "I turn everything around, but I cannot move. When you see me you see you! What am I?", 
+    "Mirror"
+  ], 
+  [
+    "Tear me off and scratch my head, what once red is now black. What am I?", 
+    "Match"
+  ], 
+  [
+    "I dance on one feet and knows only one shape. Someone with same name as me is very good with directions. What am I?", 
+    "Compass"
+  ], 
+  [
+    "Whoever made me don't want me; Whoever bought me don't need me. Whoever use me don't know me. What am I?", 
+    "Coffin"
+  ], 
+  [
+    "When you take away the whole from me, there is always some left. What am I?", 
+    "Wholesome"
+  ], 
+  [
+    "I am a word. I become longer when the third letter is removed. What am I?", 
+    "Lounger"
+  ], 
+  [
+    "Born in the ocean and white as snow. When I fall back to water I disappear without a trace. What am I?", 
+    "Salt"
+  ], 
+  [
+    "As a state in America. I am round on both sides and high in the middle. What am I?", 
+    "Ohio"
+  ], 
+  [
+    "I am enjoyed by some, despised by others. Some take me for granted, some treasure me like a gift. I last forever, unless you break me first. What am I?", 
+    "Marriage"
+  ], 
+  [
+    "I am a king who's good at measuring stuff. What am I?", 
+    "Ruler"
+  ], 
+  [
+    "I can wave my hands at you, but I never say goodbye. You are always cool when with me, even more so when I am high! What am I?", 
+    "Electric Fan"
+  ], 
+  [
+    "I start with \"T\", ends with \"T\", and within me is \"T\". What am I?", 
+    "Teapot"
+  ], 
+  [
+    "My first half means container. Not a lot of people understand my language. What am I?", 
+    "Binary"
+  ], 
+  [
+    "I walk on 4 legs in the morning, 2 legs at noon, and 3 legs at night. What am I?", 
+    "Human"
+  ], 
+  [
+    "I start with an E, end with an E, and have a letter in me. What am I?", 
+    "Envelope"
+  ], 
+  [
+    "If a man carries my burden, they will get crushed to death. Though not rich, I leave silver in my track. What am I?", 
+    "Snail"
+  ], 
+  [
+    "I have feathers that help me fly; with head and body but I'm not alive. Very skinny and a fixed length, how far I go depends on.", 
+    "Arrow"
+  ], 
+  [
+    "You heard me before, and then again. Afterward I die, until you call me again. What am I?", 
+    "Echo"
+  ], 
+  [
+    "I am free the first time and second time, but the third time is going to cost you money. What am I?", 
+    "Teeth"
+  ], 
+  [
+    "I always run but never walk, often murmur but never talk, have a bed but never sleep, has a mouth but never eat. What am I?", 
+    "River"
+  ], 
+  [
+    "Lighter than feather and softer than silk, yet the strongest man in the world cannot hold me for more than a few minutes. What am I?", 
+    "Breath"
+  ], 
+  [
+    "I am the place to turn when nature calls. What am I?", 
+    "Bathroom"
+  ], 
+  [
+    "Soft, hairy, from door to door. I am the pet that always stays on the floor. What am I?", 
+    "Carpet"
+  ], 
+  [
+    "I am quick when I'm thin. I am slow when I'm fat. Wind is my worst nightmare. What am I?", 
+    "Candle"
+  ], 
+  [
+    "I go in dry and come out wet. The longer I stay in, the stronger my surroundings get. What am I?", 
+    "Tea Bag"
+  ], 
+  [
+    "If you have me, you want to share me. Once you share me, you won't have me. What am I?", 
+    "Secret"
+  ], 
+  [
+    "I have a head, tail, but no arms and legs. What am I?", 
+    "Coin"
+  ], 
+  [
+    "I am full of holes but still holds water. What am I?", 
+    "Sponge"
+  ], 
+  [
+    "I sit in a corner while traveling around the world. What am I?", 
+    "Stamp"
+  ], 
+  [
+    "I can run but not walk. Wherever I go, thought follows close behind. What am I?", 
+    "Nose"
+  ], 
+  [
+    "People need me yet they give me away every day. What am I?", 
+    "Money"
+  ], 
+  [
+    "I make a loud noise when changing jacket, becomes bigger and delicious. What am I?", 
+    "Popcorn"
+  ], 
+  [
+    "I am owned by the poor, the rich does not need me. If you eat me, you will die! What am I?", 
+    "Nothing"
+  ], 
+  [
+    "You do not want me when you don\u2019t have me, but when you have me you don\u2019t want to lose me.", 
+    "Lawsuit"
+  ], 
+  [
+    "With a halo of water and a tongue of wood, stone as skin long I stood. What am I?", 
+    "Castle"
+  ], 
+  [
+    "I am a kind of coat that can only be put on when wet. What am I?", 
+    "Paint"
+  ], 
+  [
+    "I have a ring but no fingers. I used to stay still all the time, but nowadays I follow you around. What am I?", 
+    "Telephone"
+  ], 
+  [
+    "I begin and have no end. Eventually I will be the ending of all that has begun. What am I?", 
+    "Death"
+  ], 
+  [
+    "I must be broken before you can use me. What am I?", 
+    "Egg"
+  ], 
+  [
+    "I stink in living but when dead smells good. What am I?", 
+    "Pig"
+  ], 
+  [
+    "My rings are not worth much, but they do tell my age. What am I?", 
+    "Tree"
+  ], 
+  [
+    "I climb higher as I get hotter. I can never escape from my crystal cage. What am I?", 
+    "Mercury"
+  ], 
+  [
+    "What force and strength cannot get through, I with my unique teeth can do. What am I?", 
+    "Key"
+  ], 
+  [
+    "I am pronounced as one letter, written with three. I come in blue, black, brown, or grey. Reverse me and I read the same either way. What am I?", 
+    "Eye"
+  ], 
+  [
+    "Kings and queens may cling to power, and the jesters may have their call. I am the most common but I can rule them all. What am I?", 
+    "Ace"
+  ], 
+  [
+    "I take off my clothes when you put on your clothes. I put on my clothes when you take off your clothes. What am I?", 
+    "Clothes Hanger"
+  ], 
+  [
+    "I may be made of metal, bone, or wood and have many teeth. My bite hurts no one and the ladies love me. What am I?", 
+    "Comb"
+  ], 
+  [
+    "I am not a toy, though many use me for pleasure. I have a butt, but I cannot poop. What am I?", 
+    "Cigarette"
+  ], 
+  [
+    "I can't go left, I can't go right. I am forever stuck in a building over three stories high. What am I?", 
+    "Elevator"
+  ], 
+  [
+    "I go up when the rain comes down. What am I?", 
+    "Umbrella"
+  ], 
+  [
+    "If you lose me you may cause people around me to lose me too. What am I?", 
+    "Temper"
+  ], 
+  [
+    "I beam, I shine, I sparkle white. I'll brighten the day with a single light. I'll charm and enchant all. I'll bring the best in you all. What am I?", 
+    "Smile"
+  ], 
+  [
+    "I am a mountain at night, meadow at day. What am I?", 
+    "Bed"
+  ], 
+  [
+    "I am an instrument capable of making numerous sound but cannot be touched or seen. What am I?", 
+    "Voice"
+  ], 
+  [
+    "Cloud is my mother, wind is my father. What am I?", 
+    "Rain"
+  ], 
+  [
+    "I am black, white, and read all over. What am I?", 
+    "Newspaper"
+  ], 
+  [
+    "I run around the streets all day. Under the bed or by the door I sit at night, never alone. My tongue hangs out, waiting to be fed during the day. What am I?", 
+    "Shoe"
+  ], 
+  [
+    "I am constantly overlooked by everyone but everyone has me. What am I?", 
+    "Nose"
+  ], 
+  [
+    "I widen my jaws when you poke two fingers in me. I especially like to devour papers. What am I?", 
+    "Scissors"
+  ], 
+  [
+    "I live above a star who never burns. I have 11 neighbors but they never turn. My initial are p, q, r, and sometimes s. What am I?", 
+    "Seven"
+  ], 
+  [
+    "I have no voice but I can teach you all there is to know. I have spines and hinges but I am not a door. Once I've told you all, I cannot tell you more. What am I?", 
+    "Book"
+  ], 
+  [
+    "I always have to work with something in my eye. What am I?", 
+    "Needle"
+  ], 
+  [
+    "I am bought by the yard but worn by the foot. What am I?", 
+    "Carpet"
+  ], 
+  [
+    "I never was but always will be. No one ever saw me but everyone knows I exist. I give people the motivation to better themselves everyday. What am I?", 
+    "Tomorrow"
+  ], 
+  [
+    "I go up and down at the same time. Up towards to sky and down towards the ground. What am I?", 
+    "See-Saw"
+  ], 
+  [
+    "I am a sharp looking horse with a flaxen tail. The longer I run the shorter my tail becomes. What am I?", 
+    "Needle"
+  ], 
+  [
+    "I come in different colors and shapes. Some parts of me are curvy, some are straight. You can put me anywhere you like, but there is only one right place for me. What am I?", 
+    "Jigsaw Puzzle"
+  ], 
+  [
+    "I am alive without breath and cold as death. I am never thirsty but always drinking. What am I?", 
+    "Fish"
+  ], 
+  [
+    "I belong to you but others use me more often than you do. What am I?", 
+    "Name"
+  ], 
+  [
+    "I am rarely touched but often held, and if you are smart you'll use me well. What am I?", 
+    "Tongue"
+  ], 
+  [
+    "I go around and in the house, but never touches the house. What am I?", 
+    "Sun"
+  ], 
+  [
+    "I am a protector. I sit on a bridge. One person can see right through me, while others wonder what I hide. What am I?", 
+    "Sunglasses"
+  ], 
+  [
+    "I fly away as soon as you set me loose. People around you may slowly move away once they sense my presence. What am I?", 
+    "Fart"
+  ], 
+  [
+    "I am an insect, half of my name is another insect. I am similar to the name of a famous band. What am I?", 
+    "Beetle"
+  ], 
+  [
+    "A necessity to some, a treasure to many, I'm best enjoyed among pleasant company. Some like me hot, some like me cold. Some prefer mild, some like me bold. What am I?", 
+    "Coffee"
+  ], 
+  [
+    "You cannot keep me until you have given me. What am I?", 
+    "Your word"
+  ], 
+  [
+    "I go from house to house, a messenger small and tight. Weather it rains or snows. I sleep outside at night. What am I?", 
+    "Road"
+  ], 
+  [
+    "I'm really blue, but when you see me I'm red. You don't see me too often. I'm there for you if you're hurt, but I'm good for you. What am I?", 
+    "Blood"
+  ], 
+  [
+    "I am a time for gathering crops. Remove the first three letters I become an object you can wear. What am I?", 
+    "Harvest"
+  ], 
+  [
+    "I hold two people together but touch only one. What am I?", 
+    "Wedding Ring"
+  ], 
+  [
+    "You turn me over after you have traveled far. What am I?", 
+    "Odometer"
+  ], 
+  [
+    "Break me but I'll continue to work, touch me and maybe I'll stay with you forever. What am I?", 
+    "Heart"
+  ], 
+  [
+    "I won't break if you throw me off from the highest building but I will break if you place me in the ocean. What am I?", 
+    "Tissue"
+  ], 
+  [
+    "I hide in a dark tunnel awaiting my time. I can only be released by pulling back. Once released, I may do unstoppable damage. What am I?", 
+    "Bullet"
+  ], 
+  [
+    "I have cities with no people, forests with no trees, and oceans with no water. What am I?", 
+    "Map"
+  ], 
+  [
+    "I am a nut with a hole. What am I?", 
+    "Donut"
+  ], 
+  [
+    "When it comes to me, you go on red and stops on green. What am I?", 
+    "Watermelon"
+  ], 
+  [
+    "Physicists have built devices to move me very fast. My last seven letters can be commonly found in newspapers, magazines, and journals. What am I?", 
+    "Particles"
+  ], 
+  [
+    "I can the same written do forward, backward, and upside down. What am I?", 
+    "Noon"
+  ], 
+  [
+    "I sleep when you are awake, I am awake when you fall asleep. I can fly but no feathers to aid my flight. What am I?", 
+    "Bat"
+  ], 
+  [
+    "I only exist when you are here. Where you never were, I can never be. What am I?", 
+    "Reflection"
+  ], 
+  [
+    "I can be red, blue, purple, and green. No one can reach me, not even the queen. What am I?", 
+    "Rainbow"
+  ], 
+  [
+    "I have six faces but not even one body connected, 21 eyes in total but cannot see. What am I?", 
+    "Dice"
+  ], 
+  [
+    "I have a head and a tail but my eyes can never see my tail. What am I?", 
+    "Coin"
+  ], 
+  [
+    "You hold my tail while I fish for you. What am I?", 
+    "Net"
+  ], 
+  [
+    "I am a box who holds keys but not locks. With the right combination I may unlock your soul. What am I?", 
+    "Piano"
+  ], 
+  [
+    "I come without being fetched at night, hides away as soon as daylight strikes. Although I may look small, I am much mightier than what you can imagine. What am I?", 
+    "Star"
+  ], 
+  [
+    "I do not contain flesh, feather, or scales; yet I have fingers and thumbs. What am I?", 
+    "Glove"
+  ], 
+  [
+    "I am all around you, but you cannot see me. I have no throat, but you can hear me. Valued during summer but despised in the winter. What am I?", 
+    "Wind"
+  ], 
+  [
+    "I cannot be burned in fire or drowned in water. What am I?", 
+    "Ice"
+  ], 
+  [
+    "I contain six letters, minus one and you got twelve. What am I?", 
+    "Dozens"
+  ], 
+  [
+    "Sometimes I fly as fast as the speed of light. Sometime I crawl as slow as a snail. Unknown until I am measured but you will certainly miss me when I'm gone. What am I?", 
+    "Time"
+  ], 
+  [
+    "I spend most of my day eating white. When I am quick enough, I get rewarded with fruit and somethings blue. In a dark room with blue walls, I run from the ghost that roam the halls. What am I?", 
+    "Pac-man"
+  ], 
+  [
+    "I have roots nobody sees. I am taller than trees. Up, up I go but I never grow. What am I?", 
+    "Mountain"
+  ], 
+  [
+    "I am a ship that can be made to ride the greatest waves. I am not built by objects, but built by minds. What am I?", 
+    "Friendship"
+  ], 
+  [
+    "I have a mouth on my head and eat everything. What am I?", 
+    "Backpack"
+  ], 
+  [
+    "I do not have eyes but I once could see. I used to have thoughts but now I'm empty. What am I?", 
+    "Skull"
+  ], 
+  [
+    "I get paid to shoot people, then blow them up. What am I?", 
+    "Photographer"
+  ], 
+  [
+    "I can the book one can never finish reading. What am I?", 
+    "Autobiography"
+  ], 
+  [
+    "I am lighter than the material I am made of. You see parts of me but more of me is hidden underneath. What am I?", 
+    "Iceberg"
+  ], 
+  [
+    "I was not born, but I am here. I have no name, but I am given many. I was made by science and life. What am I?", 
+    "Clone"
+  ], 
+  [
+    "I hold two meanings. With one I may be broken, with the other I hold on. What am I?", 
+    "Tie"
+  ], 
+  [
+    "I love to twist and dance. Though wingless, I fly high up into the sky. What am I?", 
+    "Kite"
+  ], 
+  [
+    "You throw away my outside, you cook my inside. Then you eat my outside and you throw away my inside. What am I?", 
+    "Corn"
+  ], 
+  [
+    "I am a rock group with four members. All dead, one was assassinated. What am I?", 
+    "Mt. Rushmore"
+  ], 
+  [
+    "I go in hard, come out soft. Blow me hard and I'll make a pop. What am I?", 
+    "Gum"
+  ], 
+  [
+    "I am a food with 5 letters. If you remove the first letter I am a form of energy. Remove two and I'm needed to live. Scramble the last 3 and you can drink me down. What am I?", 
+    "Wheat"
+  ], 
+  [
+    "I have a hundred legs, but cannot stand. I have a long neck, but no head. I cannot see, and I help keep your house neat and tidy. What am I?", 
+    "Broom"
+  ], 
+  [
+    "I cannot be bought, cannot be sold, even if I'm sometimes made of gold. What am I?", 
+    "Heart"
+  ], 
+  [
+    "I can be found after you remove 6 letters from BSAINXLEATEARS. What am I?", 
+    "Banana"
+  ], 
+  [
+    "I run up and down the stairs without moving. What am I?", 
+    "Rug"
+  ], 
+  [
+    "When I point up, it's bright. When I point down, it's dark. What am I?", 
+    "Light Switch"
+  ], 
+  [
+    "I ask no questions but receive a lot of answers. What am I?", 
+    "Doorbell"
+  ], 
+  [
+    "You use a knife to slice my head and weep beside me when I am dead. What am I?", 
+    "Onion"
+  ], 
+  [
+    "I am a fruit with seed on the outside. What am I?", 
+    "Strawberry"
+  ], 
+  [
+    "I belong to everyone. Sometimes make you happy, sometimes make you sad. I will never end until the day you do. What am I?", 
+    "Thoughts"
+  ], 
+  [
+    "I can wake you up in the morning but I require no electricity or winding. What am I?", 
+    "Rooster"
+  ], 
+  [
+    "I can generate fear and some say I come out of your ears. I am as quite as a mouse but not welcomed in the house. What am I?", 
+    "Smoke"
+  ], 
+  [
+    "You throw me out when you use me and take me in when you are done. What am I?", 
+    "Anchor"
+  ], 
+  [
+    "I drift forever with the current and flows to your everyday life. I make living easy but I am good at killing people too. What am I?", 
+    "Electricity"
+  ], 
+  [
+    "I have 24 keys but cannot open any locks. Sometimes loud, sometimes soft. What am I?", 
+    "Music"
+  ], 
+  [
+    "I am clean when I'm black, dirty when I'm white. What am I?", 
+    "Chalkboard"
+  ], 
+  [
+    "My first two letters say my name. My last letter asks a question. What I embrace I destroy. What am I?", 
+    "Ivy"
+  ], 
+  [
+    "I have wheels and flies, yet I am not an aircraft. What am I?", 
+    "Garbage Truck"
+  ], 
+  [
+    "I have three heads. Cut off one, I become stronger. Cut off two, I become ten. What am I?", 
+    "Fox"
+  ], 
+  [
+    "I contain five little items of an everyday sort. You can find all five in a tennis court. What am I?", 
+    "Vowels"
+  ], 
+  [
+    "I am black when you buy me, red when you use me, when I turn white. You know it's time to throw me away. What am I?", 
+    "Charcoal"
+  ], 
+  [
+    "I can sizzle like bacon. I am made with an egg, I have plenty of backbone, but lack a good leg. I peel layers like onions, but still remain whole. I can be long, like a flagpole, yet fit in a hole. What am I?", 
+    "Snake"
+  ], 
+  [
+    "I can swim but never get wet. I can run but never get tired. I follow you everywhere but never say a word. What am I?", 
+    "Shadow"
+  ], 
+  [
+    "I am the beginning of the end, and the end of time and space. I am essential to creation, and I surround every place. What am I?", 
+    "E"
+  ], 
+  [
+    "You can throw me away, but I will always be coming back. What am I?", 
+    "Boomerang"
+  ], 
+  [
+    "I am in the past, never in the future. I don't exist, but have existed. I saw what you saw, and this is what I will ever see. What am I?", 
+    "Memory"
+  ], 
+  [
+    "In prison I will be found, But I'll never be in court, Unless there's more than one.", 
+    "S"
+  ], 
+  [
+    " I\u2019ve been argued on my colour. Without me you\u2019ll die. So many attempts on your life use me, so make sure you have many of my \u201cWhite\u201d friends.", 
+    "Red Blood Cell"
+  ], 
+  [
+    "I see what you see, feel what you feel, and hear what you hear. I know all of your moves before you make them. I even know the moves you didn't make. What am I?", 
+    "Brain"
+  ], 
+  [
+    "I am flora, not fauna. I am foliage, not trees. I am shrubbery, not grass. What am I?", 
+    "Bush"
+  ], 
+  [
+    "I come off a beautiful creature, which soars in the sky. I come off a peckish creature, which has a tail as mighty as the sun! I am sometimes dirty, and parents beg you not to pick me up. What am I?", 
+    "Feather"
+  ], 
+  [
+    "I am easy to waste and unstoppable What am I?", 
+    "Time"
+  ], 
+  [
+    "I am not very commonly found! Only in some rainforest! I have an odd number of toes! I'm very lazy and hang upside down! What am I?", 
+    "Sloth"
+  ], 
+  [
+    "I am one small little piece of paper, yet sometimes hold lots of value. I am all you need to get in to big events, but will cost you. I am an important part of travel. And if lost, you're not coming. What am I?", 
+    "Ticket"
+  ], 
+  [
+    "A hole in a pole. Though I fill a hole in white, I'm used more b the day and less by the night. What am I?", 
+    "Eye"
+  ], 
+  [
+    "I start new then become old. Start clean but be one dirty. I usually start big then become little. What am I?", 
+    "Shoes"
+  ], 
+  [
+    "I can fall off a building and live, but in water I will die. What am I?", 
+    "Paper"
+  ], 
+  [
+    "I am what bring things together. Without me everything you see would be a total mass or debris everywhere. What am I?", 
+    "Gravity"
+  ], 
+  [
+    "I have been the beginning of ideas for all time, yet I am just one simple small object, the things that you can use me for can be frustrating and also I can be pretty. I have some of the most valuable thing in the world on me, yet almost everyone owns me. With me you can make anything. What am I?", 
+    "Paper"
+  ], 
+  [
+    "The thunder comes before the lightning, and the lightning comes before the cloud, The rain dries all the land it touches, wrapping the earth in a blood red shroud. What am I?", 
+    "Volcano"
+  ], 
+  [
+    "I have palms but not on hands, I offer foods from distant lands, When at my peak you'll see me smoke, I'm famous for my friendly folk, My flowers grow and yet they lay, There's fire where a man will play. What am I?", 
+    "Hawaii"
+  ], 
+  [
+    "I am beautiful, up in the sky. I am magical, yet I cannot fly. To people I bring luck, to some people, riches. The boy at my end does whatever he wishes. What am I?", 
+    "Rainbow"
+  ], 
+  [
+    "I may seem real but it always turns out I was never there in the first place... you only see me during a certain resting stage. What am I?", 
+    "Dream"
+  ], 
+  [
+    "The 8 of us go forth and back to protect our king from a foes attack. What am I?", 
+    "Pawns"
+  ], 
+  [
+    "I can speak with my hard metal tongue. But I cannot breathe, for I have no lung. What am I?", 
+    "Bell"
+  ], 
+  [
+    "I shoot but never kills. What am I?", 
+    "Camera"
+  ], 
+  [
+    "Take away my first letter, take away my second letter, take away all my letters and I would remain the same. What am I?", 
+    "Postman"
+  ], 
+  [
+    "I am a vegetable that bugs stay away from. What am I?", 
+    "Squash"
+  ], 
+  [
+    "Two in a corner, 1 in a room, 0 in a house, but 1 in a shelter. What am I?", 
+    "R"
+  ], 
+  [
+    "*Forward* *backwards* is what I do all day. I come in all different shapes and sizes. I can be scary, and I can calm you down. What am I?", 
+    "Rocking Chair"
+  ], 
+  [
+    "You get embarrassed when you stand on me when everybody is watching. Women don't like to talk about the number they see on me. Everyone stands on me when nobody is around. What am I?", 
+    "Scale"
+  ], 
+  [
+    "I am essential to life on earth! I am split into thirds. Two thirds are the same. One of the thirds is 8. The other two are 1 each. What am I?", 
+    "Water"
+  ], 
+  [
+    "I can be driven, but have no wheels. I can be sliced, but still remains whole. What am I?", 
+    "Gold Ball"
+  ], 
+  [
+    "I have two eyes in the front and a lot of eyes on my tail. What am I?", 
+    "Peacock"
+  ], 
+  [
+    "I can be winding and I can be straight. I can be smooth and I can be rough. Sometimes both. I start out black but fade to brown the more I am used. My favorite colors are yellow and white, and I love stripes and dashed lines. What am I?", 
+    "Road"
+  ], 
+  [
+    "I roam through the lands hoping to rescue my love. I search high and low, and will stomp on you if you get in my way! What am I?", 
+    "Mario"
+  ], 
+  [
+    "People walk in and out of me. They push and I follow. When they walk out on me, I close up and I stay waiting for the next person to walk into my life when I have a more open mind. What am I?", 
+    "Elevator"
+  ], 
+  [
+    "I shift around, though always slowly. I never move more than a few inches at a time. A large movement by me can kill many people. I am huge, yet unseen by humans. What am I?", 
+    "Tectonic Plate"
+  ], 
+  [
+    "The faster you run, the harder it is to catch me. What am I?", 
+    "Breath"
+  ], 
+  [
+    "I am gold and can be black and white, I'm a symbol for a nation, when freedom took flight. What am I?", 
+    "Eagle"
+  ], 
+  [
+    "I am a portal to another world which you cannot enter. Only you can see me but I can't see you. What am I?", 
+    "Television"
+  ], 
+  [
+    "I have a frame but no pictures. I have poles but not standing up. What am I?", 
+    "Glasses"
+  ], 
+  [
+    "Before I grow I'm small. When I'm old I grow tall. When I die I give a mighty fall. What am I?", 
+    "Tree"
+  ], 
+  [
+    "You use a knife to slice my head but you weep beside me when I am dead. What am I?", 
+    "Onion"
+  ], 
+  [
+    "I am black and white. I have strings I have keys. I make sound without my lips. I make dough with no flour. What am I?", 
+    "Piano"
+  ], 
+  [
+    "I'm an old relative who's hand's can't hold anything and eyes can't see anything. What am I?", 
+    "Grandfather Clock"
+  ], 
+  [
+    "Sometimes dark and sometimes bright, I make my way among twinkling lights. Seas and oceans obey my call, yet mountains I cannot move at all. My face is marred and gray, but I'm majestic anyway. What am I?", 
+    "Moon"
+  ], 
+  [
+    "I have married many woman but has never been married. What am I?", 
+    "Priest"
+  ], 
+  [
+    "I am the only word that looks the same when spelled upside down. What am I?", 
+    "Swims"
+  ], 
+  [
+    "Whoever makes it, tells it not. Whoever takes it, knows it not. Whoever knows it, wants it not. What am I?", 
+    "Poison"
+  ], 
+  [
+    "I am an English word with 3 consecutive double letters. What am I?", 
+    "Bookkeeper"
+  ], 
+  [
+    "I am three simple words, everyone wants to hear. Three simple words, such simple words, and yet... life changing... What am I?", 
+    "I Love You"
+  ], 
+  [
+    "I move without wings, between silken strings. I leave as you find my substance behind. What am I?", 
+    "Spider"
+  ], 
+  [
+    "I am black and white and full of fuzz. What am I?", 
+    "Police Car"
+  ], 
+  [
+    "I am used for light yet I am solid. Without me you would feel enclosed. I hate being touched, especially with a lot of force. I like to be in buildings. What am I?", 
+    "Window"
+  ], 
+  [
+    "I am an animal and a hair product. What am I?", 
+    "Moose"
+  ], 
+  [
+    "You can build or destroy. Let creativity soar but be careful at night. What am I?", 
+    "Minecraft"
+  ], 
+  [
+    "I moan, I groan, I chase after you. I never seem to rest. Time's up for you. What am I?", 
+    "Children"
+  ], 
+  [
+    "I am brown and sticky. What am I?", 
+    "Stick"
+  ], 
+  [
+    "Against the sun, I protect your eyes and am often worn on the face of spies. What am I?", 
+    "Sunglasses"
+  ], 
+  [
+    "I can be found in water but never wet. What am I?", 
+    "Reflection"
+  ], 
+  [
+    "I make things short, but I am pretty long myself. What am I?", 
+    "Abbreviation"
+  ], 
+  [
+    "Many people own a copy of me. Without me the world would fall. What am I?", 
+    "Atlas"
+  ], 
+  [
+    "I stand up tall and made of steel, with baguettes and garlic at my heel. I love the colours red white and blue, but obviously not as much as you. I am a marvel for all to see, though to some I am a monstrosity! What am I?", 
+    "Eiffel Tower"
+  ], 
+  [
+    "I am an object which is used in baseball, during the day I can't be seen at all. What am I?", 
+    "Bat"
+  ], 
+  [
+    "I am wood that is neither hard, straight, or crooked. What am I?", 
+    "Saw Dust"
+  ], 
+  [
+    "U always follow me but I am rarely seen. What am I?", 
+    "Q"
+  ], 
+  [
+    "I'm as simple as a circle, worthless as a leader; but when I follow a group, their strength increases tenfold. By myself I'm practically nothing. What am I?", 
+    "Zero"
+  ], 
+  [
+    "My first part compliments people. My second part makes things known. My third part hurts feelings. My fourth part ma hold a previous treasure. My fifth part is used when sharing fancy beverages. What am I?", 
+    "Hand"
+  ], 
+  [
+    "I am not alive and yet I grow. Just put me next to where it grows. A favorite of the summertime, best with friends when combined. What am I?", 
+    "Marshmallow"
+  ], 
+  [
+    "though I am only two words, I have thousands of letters in me. What am I?", 
+    "Post Office"
+  ], 
+  [
+    "I can be sweet or sour. I do not rhyme with any other word. What am I?", 
+    "Orange"
+  ], 
+  [
+    "I lose my head in the morning and regain back it at night. What am I?", 
+    "Pillow"
+  ], 
+  [
+    "I wear a red robe, with staff in hand and a stone in my throat. What am I?", 
+    "Cherry"
+  ], 
+  [
+    "I give people a huge fright, but at the end I'm sweet. I normally celebrate at night, when there's less heat. What am I?", 
+    "Halloween"
+  ], 
+  [
+    "I am the ultimate killing machine, used not once but TWICE, I can be made by humans. What am I?", 
+    "War"
+  ], 
+  [
+    "In my life I must bare, my bloodline I must share. What am I?", 
+    "Sibling"
+  ], 
+  [
+    "Two in a whole and four in a pair. Six in a trio you see. Eight's a quartet but what you must get is the name that fits just one of me. What am I?", 
+    "Half"
+  ], 
+  [
+    "I twist and turn and leaves a loop. What am I?", 
+    "Shoe Lace"
+  ], 
+  [
+    "I am easy to see, but no one likes looking at me. Without me, there would be no you. I can make you complain, or make you happy. But you almost always take me for granted. What am I?", 
+    "Sun"
+  ], 
+  [
+    "I am a type of cheese made backwards. What am I?", 
+    "Edam"
+  ], 
+  [
+    "Though I am dark, Adam married me. What am I?", 
+    "Eve"
+  ], 
+  [
+    "I am always in front of you, but you will never see me. What am I?", 
+    "Future"
+  ], 
+  [
+    "I will go within you, and destroy you. Only because you wanted me too. What am I?", 
+    "Drugs"
+  ], 
+  [
+    "I dig out tiny caves, and store gold and silver in them. I also build bridges of silver and make crowns of gold. Sooner or later everybody needs my help, yet many people afraid to let me help them. What am I?", 
+    "Dentist"
+  ], 
+  [
+    "To cross the water I'm the way. For water I'm above I touch it not, and truth to say, I neither swim nor move. What am I?", 
+    "Bridge"
+  ], 
+  [
+    "I can be simple or I can be complex. I can be found in this riddle or in everyday life. I c an be shapes or even colors. What am I?", 
+    "Pattern"
+  ], 
+  [
+    "I am edible, pink, and a great summer food. What am I?", 
+    "Peach"
+  ], 
+  [
+    "I crushed on Wendy Darling. What am I?", 
+    "Peter Pan"
+  ], 
+  [
+    "I am a protector of the scoreboard. What am I?", 
+    "Goalie"
+  ], 
+  [
+    "I am needed for most animals and hardcover books. What am I?", 
+    "Spine"
+  ], 
+  [
+    "You used to come to me for all sorts of information and knowledge before internet was born. What am I?", 
+    "Library"
+  ], 
+  [
+    "I tell people to be careful when handling boxes. What am I?", 
+    "Fragile"
+  ], 
+  [
+    "We applaud if you perform well. What am I?", 
+    "Audience"
+  ], 
+  [
+    "I look like a tiny trombone. What am I?", 
+    "Paperclip"
+  ], 
+  [
+    "I increase head turning rate tremendously for girls at beaches. What am I?", 
+    "Bikini"
+  ], 
+  [
+    "I describe a toilet cleaner as well as one of Santa's reindeer. What am I?", 
+    "Comet"
+  ], 
+  [
+    "I can only be played on a windy day. What am I?", 
+    "Kite"
+  ], 
+  [
+    "I am a candy that looks like a shepherd's staff. What am I?", 
+    "Candy Cane"
+  ], 
+  [
+    "I begin your sentences. What am I?", 
+    "Capital"
+  ], 
+  [
+    "I am a shiny metal sheet that covers BBQ food. What am I?", 
+    "Aluminum"
+  ], 
+  [
+    "Deposit red liquid in me. What am I?", 
+    "Blood Bank"
+  ], 
+  [
+    "I don't forget! What am I?", 
+    "Elephant"
+  ], 
+  [
+    "Things here are usually tagged with red stickers. What am I?", 
+    "Clearance"
+  ], 
+  [
+    "I am a small paradise surrounded by dryness and heat. What am I?", 
+    "Oasis"
+  ], 
+  [
+    "I am a type of weapon for SCI-FI characters. What am I?", 
+    "Laser"
+  ], 
+  [
+    "Keep doing me to avoid lens dryness. What am I?", 
+    "Blink"
+  ], 
+  [
+    "I flow from the mouth of Homer when he sees doughnuts. What am I?", 
+    "Drool"
+  ], 
+  [
+    "I am the noise Santa's reindeers make. What am I?", 
+    "Jingle"
+  ], 
+  [
+    "I store fire-breathing animals. What am I?", 
+    "Dungeon"
+  ], 
+  [
+    "Some people avoid me, some people count me, some people just consume me. What am I?", 
+    "Calories"
+  ], 
+  [
+    "I am a beverage named after a stick. What am I?", 
+    "Club Soda"
+  ], 
+  [
+    "Angels and pilots work with me. What am I?", 
+    "Wings"
+  ], 
+  [
+    "I am like thunder in your cranium. What am I?", 
+    "Headache"
+  ], 
+  [
+    "Better touch me before you proceed to second. What am I?", 
+    "First Base"
+  ], 
+  [
+    "I encourage people to run home and steal. What am I?", 
+    "Baseball"
+  ], 
+  [
+    "I am enjoyed with a pot and some pointy sticks. What am I?", 
+    "Fondue"
+  ], 
+  [
+    "I am a tool for fairies. What am I?", 
+    "Magic Wand"
+  ], 
+  [
+    "I hop around and deliver eggs at Easter. What am I?", 
+    "Bunny"
+  ], 
+  [
+    "I am a daily ritual involving using a metal tool on the body. What am I?", 
+    "Shave"
+  ], 
+  [
+    "I am the second L in LOL. What am I?", 
+    "Loud"
+  ], 
+  [
+    "I am a delicious way of representing data. What am I?", 
+    "Pie Chart"
+  ], 
+  [
+    "My flavors ranges from strawberry to toe. What am I?", 
+    "Jam"
+  ], 
+  [
+    "I am known for my natural tuxedo and marching. What am I?", 
+    "Penguin"
+  ], 
+  [
+    "A popular afterlife location to send evil people. What am I?", 
+    "Hell"
+  ], 
+  [
+    "I am a desire to munch. What am I?", 
+    "Hunger"
+  ], 
+  [
+    "I keep things green and keep kids happy during summer time. What am I?", 
+    "Sprinkler"
+  ], 
+  [
+    "Canine children. What am I?", 
+    "Puppy"
+  ], 
+  [
+    "I am a way to say goodbye to your sweetheart. What am I?", 
+    "Kiss"
+  ], 
+  [
+    "I love spinach. What am I?", 
+    "Popeye"
+  ], 
+  [
+    "I have strong affection for belly buttons. What am I?", 
+    "Lint"
+  ], 
+  [
+    "I am a sound made by felines when petted. What am I?", 
+    "Purr"
+  ], 
+  [
+    "I am so delicious that I require a house to contain me. What am I?", 
+    "Pancakes"
+  ], 
+  [
+    "Cats and deflation tires make this noise. What am I?", 
+    "Hiss"
+  ], 
+  [
+    "I am a activity dogs are very good at when a ball is thrown. What am I?", 
+    "Fetch"
+  ], 
+  [
+    "I am very afraid of doing scary activities. What am I?", 
+    "Chicken"
+  ], 
+  [
+    "Found at the back of the book. What am I?", 
+    "Appendix"
+  ], 
+  [
+    "Hide me from your parents if you have done bad academically this year. What am I?", 
+    "Report Card"
+  ], 
+  [
+    "I mean goodbye for South Americans. What am I?", 
+    "Adios"
+  ], 
+  [
+    "I am longer than a decade and shorter than a millennium. What am I?", 
+    "Century"
+  ], 
+  [
+    "I help you carry your books. What am I?", 
+    "Backpack"
+  ], 
+  [
+    "You need thousands of me to create a digital image. What am I?", 
+    "Pixel"
+  ], 
+  [
+    ":The Titanic is still here. What am I?", 
+    "Atlantic"
+  ], 
+  [
+    "I am often sold by children entrepreneurs in summer time. What am I?", 
+    "Lemonade"
+  ], 
+  [
+    "I am milky white and scares people. What am I?", 
+    "Ghost"
+  ], 
+  [
+    "Send poorly behaved children to me and let them sit here. What am I?", 
+    "Corner"
+  ], 
+  [
+    "I am a creature with a \u201ctight\u201d name.", 
+    "Seal"
+  ], 
+  [
+    "Four leaves I have. What am I?", 
+    "Shamrock"
+  ], 
+  [
+    "the most famous dinner. What am I?", 
+    "Last Supper"
+  ], 
+  [
+    "I cracked by Indiana Jones. What am I?", 
+    "Whip"
+  ], 
+  [
+    "I am sometimes referred to as chips. What am I?", 
+    "French Fries"
+  ], 
+  [
+    "Teenage girls are pros at creating me. Learn me in classes. What am I?", 
+    "Drama"
+  ], 
+  [
+    "I am million people's wakeup call. What am I?", 
+    "Coffee Bean"
+  ], 
+  [
+    "My teeth help me suck. What am I?", 
+    "Vampire"
+  ], 
+  [
+    "Island hello. What am I?", 
+    "Aloha"
+  ], 
+  [
+    "I help boats park. What am I?", 
+    "Anchor"
+  ], 
+  [
+    "Santa shakes his belly like me. What am I?", 
+    "Jelly"
+  ], 
+  [
+    "I suck. What am I?", 
+    "Vaccum"
+  ], 
+  [
+    "I am the kind of food monkey likes, and people slip on me and fall in cartoons. What am I?", 
+    "Banana"
+  ], 
+  [
+    "I carry you down a gental stream. What am I?", 
+    "Rowboat"
+  ], 
+  [
+    "I invade your home once a year... but only if you've been good. What am I?", 
+    "Santa Claus"
+  ], 
+  [
+    "I am a type of animal that hang out in the mist. What am I?", 
+    "Gorilla"
+  ], 
+  [
+    "An action done on mosquito bites. What am I?", 
+    "Scratch"
+  ], 
+  [
+    "The time between daylight and darkness when blood drinkers like to come out. What am I?", 
+    "Twilight"
+  ], 
+  [
+    "A piece of paper that takes most people 3 or 4 years to get. What am I?", 
+    "Diploma"
+  ], 
+  [
+    "I am used when you jump off a bridge for fun. What am I?", 
+    "Bungee"
+  ], 
+  [
+    "I am pinched by grandmas. What am I?", 
+    "Cheeks"
+  ], 
+  [
+    "I mirror your actions. What am I?", 
+    "Copycat"
+  ], 
+  [
+    "I am a busy worker who is a water mammal. What am I?", 
+    "Beaver"
+  ], 
+  [
+    "I am ten little beans your look at everyday. What am I?", 
+    "Toes"
+  ], 
+  [
+    "I travel in a gaggle. What am I?", 
+    "Goose"
+  ], 
+  [
+    "Light me up in backyard gatherings. What am I?", 
+    "Charcoal"
+  ], 
+  [
+    "I save lives on the ground an din the air. What am I?", 
+    "Seatbelt"
+  ], 
+  [
+    "I destroy your home from inside out. What am I?", 
+    "Termite"
+  ], 
+  [
+    "The only amusing part of the body. What am I?", 
+    "you are"
+  ], 
+  [
+    "I am the home for feathery animals. What am I?", 
+    "Nest"
+  ], 
+  [
+    "I am the state when a person is holding a person inside. What am I?", 
+    "Pregnant"
+  ], 
+  [
+    "When you are inside me, you will be encouraged to slam other cars. What am I?", 
+    "Bumper Car"
+  ], 
+  [
+    "I am a living following the wealthy and beautiful. What am I?", 
+    "Paparazzi"
+  ], 
+  [
+    "I am expelled from you orally with a sound. What am I?", 
+    "Burp"
+  ], 
+  [
+    "Find me on body builders or in the drink aisle. What am I?", 
+    "Six Pack"
+  ], 
+  [
+    "I am the best thing that can happen after a stick hits a ball. What am I?", 
+    "Home Run"
+  ], 
+  [
+    "I stink up your breath and fights evil vampires. What am I?", 
+    "Garlic"
+  ], 
+  [
+    "I am commonly abbreviated to H. What am I?", 
+    "Hydrogen"
+  ], 
+  [
+    "I am the minerals vital for your good health. What am I?", 
+    "Vitamin"
+  ], 
+  [
+    "I am owned by Old McDonald. What am I?", 
+    "Farm"
+  ], 
+  [
+    "I shared by goats, devils, and unicorns. What am I?", 
+    "Horn"
+  ], 
+  [
+    "I let water fall on you while everyone else stays dry. What am I?", 
+    "Shower"
+  ], 
+  [
+    "I am a caribbean shape that makes ships disappear. What am I?", 
+    "Triangle"
+  ], 
+  [
+    "Rub me and a genie might appear. What am I?", 
+    "Lamp"
+  ], 
+  [
+    "Makeup for finger tips. What am I?", 
+    "Nail Polish"
+  ], 
+  [
+    "I direct you from outer space. What am I?", 
+    "GPS"
+  ], 
+  [
+    "I transfer oxygen from the atmosphere to your blood. What am I?", 
+    "Lungs"
+  ], 
+  [
+    "I am the reaction after enjoying soda. What am I?", 
+    "Belch"
+  ], 
+  [
+    "Use me to reward good behavior. What am I?", 
+    "Treat"
+  ], 
+  [
+    "I cause involuntary movements in your vehicle. What am I?", 
+    "Tow Truck"
+  ], 
+  [
+    "I am a person who pretends to be someone else. What am I?", 
+    "Impostor"
+  ], 
+  [
+    "I am a lunch money thief. What am I?", 
+    "Bully"
+  ], 
+  [
+    "Although it sounds like I work on a transportation device, I actually work in a restaurant. What am I?", 
+    "Busboy"
+  ], 
+  [
+    "A move made popular b the King of Pop. What am I?", 
+    "Moon Walk"
+  ], 
+  [
+    "Use me if you really want to see inside someone. What am I?", 
+    "X-ray"
+  ], 
+  [
+    "I am a mini solar powered computer. What am I?", 
+    "Calculator"
+  ], 
+  [
+    "I can be entertaining until you realize some pieces have been lost. What am I?", 
+    "Puzzle"
+  ], 
+  [
+    "I am an activity involving pins flying int eh air. What am I?", 
+    "Joggling"
+  ], 
+  [
+    "Turkey day. What am I?", 
+    "Thanksgiving"
+  ], 
+  [
+    "There are four of us, but it seems like everyone loves spades the most. What am I?", 
+    "Aces"
+  ], 
+  [
+    "I am a shower that lights up the sky. What am I?", 
+    "Meteor"
+  ], 
+  [
+    "I carried by mad animals. What am I?", 
+    "Rabies"
+  ], 
+  [
+    "I am nature's way of applauding lightning. What am I?", 
+    "Thunder"
+  ], 
+  [
+    "A large oasis in the desert. Come with cash and leave with none. What am I?", 
+    "Las Vegas"
+  ], 
+  [
+    "Sing me to a baby about to go to sleep. What am I?", 
+    "Lullaby"
+  ], 
+  [
+    "Digital white-out. What am I?", 
+    "Delete"
+  ], 
+  [
+    "3 point goal. What am I?", 
+    "Field Goal"
+  ], 
+  [
+    "I can be heard in a court of carried with you. What am I?", 
+    "Case"
+  ], 
+  [
+    "Score in end zones. What am I?", 
+    "Touchdown"
+  ], 
+  [
+    "I am rubber you can eat! What am I?", 
+    "Jelly"
+  ], 
+  [
+    "Skirts for men. What am I?", 
+    "Kilt"
+  ], 
+  [
+    "I help engines spin and pants stay up. What am I?", 
+    "Belt"
+  ], 
+  [
+    "I produce wool and spit a lot. What am I?", 
+    "Llama"
+  ], 
+  [
+    "Small land in water. What am I??", 
+    "Island"
+  ], 
+  [
+    "I am the signature stroll of ducks and penguins. What am I??", 
+    "Waddle"
+  ], 
+  [
+    "I am a shimmering field that reaches far. Yet I have no tracks, and am crossed without paths. What am I?", 
+    "Ocean"
+  ], 
+  [
+    "I'm hard as a rock, and as light as a feather. I'm passed on to one another. Poor people need me, and rich people have me.", 
+    "Money"
+  ], 
+  [
+    "I fly when I'm on and float coming off. What am I?", 
+    "Feather"
+  ], 
+  [
+    "I am the word that is always spelled correctly by everyone. What am I?", 
+    "Correctly"
+  ], 
+  [
+    "My teeth are sharp, my back is straight, to cut things up it is my fate. What am I?", 
+    "Saw"
+  ], 
+  [
+    "I have long legs, crooked thighs, little head, and no eyes. What am I?", 
+    "Tongs"
+  ], 
+  [
+    "You write on me and secrets I can keep. In places never seen. I spin like a top. Though stiff as a board, I'm often described like a mop. What am I?", 
+    "Floppy Disk"
+  ], 
+  [
+    "My tail is long, my coat is brown, I like the country, I like the town. I can live in a house or live in a shed, And I come out to play when you are in bed. What am I?", 
+    "Mouse"
+  ], 
+  [
+    "I tremble at each breath of air, and yet can heaviest burdens bear. What am I?", 
+    "Water"
+  ], 
+  [
+    "I am a house with two occupants, sometimes one, rarely three. Break the walls, eat the boarders, then throw away me. What am I?", 
+    "Peanut"
+  ], 
+  [
+    "I am partially baked. I am not completely lit. I am a portion of the moon. I am lesser than full wit. I am a divider of the hour. I am not a total lie. I am a sibling through one parent. What am I?", 
+    "Half"
+  ], 
+  [
+    "While you were folding a letter you got me. Usually you will do whatever it takes to avoid me, but now you can't help but find me. What am I?", 
+    "Paper Cut"
+  ], 
+  [
+    "I march before armies, a thousand salute me. My fall can bring victory, but no one would shoot me. The wind is my lover, one-legged am I. Name me and see me at home in the sky. What am I?", 
+    "Flag"
+  ], 
+  [
+    "I plow and plow, but never sow. What am I?", 
+    "Pig"
+  ], 
+  [
+    "I am the kind of ant that's good at math. What am I?", 
+    "Accountant"
+  ], 
+  [
+    "Without a bridle, or a saddle, across a thing I ride a-straddle. And those I ride, by help of me, though almost blind, are made to see. What am I?", 
+    "Glasses"
+  ], 
+  [
+    "The more you work, the more I'll eat.You keep me full, I'll keep you neat. What am I?", 
+    "Pencil Sharpener"
+  ], 
+  [
+    "I have every color, but no gold. What am I?", 
+    "Rainbow"
+  ], 
+  [
+    "I am the noblest musical instrument. What am I?", 
+    "Upright Piano"
+  ], 
+  [
+    "My head and tail both equal are, my middle slender as a bee. Whether I stand on head or heel Is quite the same to you or me. But if my head should be cut off, the matter's true, though passing strange directly I to nothing change. What am I?", 
+    "Eight"
+  ], 
+  [
+    "I am black within and red without, With four corners round about. What am I?", 
+    "Chimney"
+  ], 
+  [
+    "Turns me on my backs, and open up my stomach. You will be the wisest of men though at start a lummox. What am I?", 
+    "Book"
+  ], 
+  [
+    "Every night I'm told what to do, and each morning I do what I'm told. But I still don't escape your scold What am I?", 
+    "Alarm-Clock"
+  ], 
+  [
+    "I am all around, yet to me you are half blind. Sunlight makes me invisible, and difficult to find. What am I?", 
+    "Star"
+  ], 
+  [
+    "I am seen in the water. If seen in the sky, I am in the rainbow, a jay's feather, and lapis lazuli. What am I?", 
+    "Blue"
+  ], 
+  [
+    "My first is in window but not in pane. My second's in road but not in lane. My third is in oval but not in round. My fourth is in hearing but not in sound. My whole is known as a sign of peace. And from noah's ark won quick release. What am I?", 
+    "Dove"
+  ], 
+  [
+    "The more of me there is, the less you see. What am I?", 
+    "Darkness"
+  ], 
+  [
+    "I have a name that's not mine, and no one cares about me in their prime. People cry at my sight, and lie by me all day and night. What am I?", 
+    "Tombstone"
+  ], 
+  [
+    "Alone I am 24th, with a friend I am 20. Another friend and I am unclean. What am I?", 
+    "X"
+  ], 
+  [
+    "By Moon or by Sun, I shall be found. Yet I am undone, if there's no light around. What am I?", 
+    "Shadow"
+  ], 
+  [
+    "I reach for the sky, but clutch to the ground. Sometimes I leave, but I am always around. What am I?", 
+    "Tree"
+  ], 
+  [
+    "My first is in riddle, but not in little. My second is in think, but not in brink. My third is in thyme, but not in time. My fourth is in mother, but not in brother. My last is in time, but no t in climb. What am I?", 
+    "Rhyme"
+  ], 
+  [
+    "Some try to hide, some try to cheat. But time will show, we always will meet. Try as you might, to guess my name. I promise you'll know, when you I do claim. What am I?", 
+    "Death"
+  ], 
+  [
+    "I spend the day at the window, go to the table for meals, and hide at night. What am I?", 
+    "Fly"
+  ], 
+  [
+    "I run through hills. I veer around mountains. I leap over rivers. And crawl through the forests. Step out your door to find me. What am I?", 
+    "Road"
+  ], 
+  [
+    "I am the kind of fish that chases a mouse. What am I?", 
+    "Catfish"
+  ], 
+  [
+    "I go around a yard but does not move. What am I?", 
+    "Fence"
+  ], 
+  [
+    "I am orange and sound like a parrot. What am I?", 
+    "Carrot"
+  ], 
+  [
+    "I grow up while growing down What am I?", 
+    "Goose"
+  ], 
+  [
+    "I am the key that is the hardest to turn What am I?", 
+    "Donkey"
+  ], 
+  [
+    "I am the beginning of eternity, the end of time and space, the beginning of every end, the end of every place. What am I?", 
+    "E"
+  ], 
+  [
+    "I am a cave full of bones, and the house of a worm. What am I?", 
+    "Mouth"
+  ], 
+  [
+    "Brown I am and much admired; many horses have I tried; tire a horse and worry a man; tell me this riddle if you can. What am I?", 
+    "Saddle"
+  ], 
+  [
+    "I live off of a busy street, if you want you can stay for an hour or two, but if you don't pay rent I'll tell on you. What am I?", 
+    "Parking Meter"
+  ], 
+  [
+    "I cannot be felt, seen or touched. Yet I can be found in everybody. My existence is always in debate. Yet I have my own style of music. What am I?", 
+    "Soul"
+  ], 
+  [
+    "I row quickly with four oars, but never comes out from under my own roof. What am I?", 
+    "Turtle"
+  ], 
+  [
+    "I look at you, you look at me, I raise my right, you raise your left. What am I?", 
+    "Mirror"
+  ], 
+  [
+    "I am a path between high natural masses; remove the first letter to get a path between man-made masses. What am I?", 
+    "Valley"
+  ], 
+  [
+    "I have hands but cannot clap. What am I?", 
+    "Clock"
+  ], 
+  [
+    "Without me everyone would lose their head. What am I?", 
+    "Neck"
+  ], 
+  [
+    "Though desert men once called me God, today men call me mad. For I wag my tail when I am angry. And growl when I am glad. What am I?", 
+    "Cat"
+  ], 
+  [
+    "I am made by nature, soft as silk; A puffy cloud, white as milk; Snow tops this tropical crop; The dirtiest part of a mop. What am I?", 
+    "Cotton"
+  ], 
+  [
+    "I can go through glass without breaking it. What am I?", 
+    "Light"
+  ], 
+  [
+    "In many hall ways you would stand, if not with me in hand. What am I?", 
+    "Key"
+  ], 
+  [
+    "If you're looking for something sweet I know what to do. But if you don't like heat I'm not for you. What am I?", 
+    "Kitchen"
+  ], 
+  [
+    "I'll bring out your bulls, and slow your roll. I may even come out of your skull. What am I?", 
+    "Red"
+  ], 
+  [
+    "I am the word that has three syllables and twenty six letters. What am I?", 
+    "Alphabet"
+  ], 
+  [
+    "I am two-faced but bear only one. I have no legs but travel widely. Men spill much blood over me. Kings leave their imprint on me. I have greatest power when given away, yet lust for me keeps me locked away. What am I?", 
+    "Coin"
+  ], 
+  [
+    "I fly forever, Rest never. What am I?", 
+    "Wind"
+  ], 
+  [
+    "I am the building with the most number of stories. What am I?", 
+    "Library"
+  ], 
+  [
+    "Part carbon, part water, I am poison to the fishes. Many falsely claim my name, I am the pause that refreshes. What am I?", 
+    "Soda"
+  ], 
+  [
+    "I'm tall, I'm round and hollow, Seems to get chewed a bit, But you'll rarely see me unless the other end is lit. What am I?", 
+    "Pipe"
+  ], 
+  [
+    "My days are numbered. What am I?", 
+    "Calendar"
+  ], 
+  [
+    "I'm many people's favorite place, even though many don't remember their stay. You'll love to come but hate to leave, if you get cold use my sleeves. What am I?", 
+    "Bed"
+  ], 
+  [
+    "I'm very tempting, so its said, I have a shiny coat of red, and my flesh is white beneath. I smell so sweet, taste good to eat, and help to guard your teeth. What am I?", 
+    "Apple"
+  ], 
+  [
+    "I am a celebrity fish. What am I?", 
+    "Starfish"
+  ], 
+  [
+    "You went into the woods and got me. You sat down to seek me. You brought me home because you couldn't find me. What am I?", 
+    "Splinter"
+  ], 
+  [
+    "My first, though water, cures no thirst, my next alone has soul, and when he lives upon my first, he then is called my whole. What am I?", 
+    "Seaman"
+  ], 
+  [
+    "Six legs, two heads, two hands, one long nose. Yet I use only four legs Wherever I go. What am I?", 
+    "Horseman"
+  ], 
+  [
+    "Of these things \u2013 I have two. One for me \u2013 and one for you. And when you ask about the price, I simply smile and nod twice. What am I?", 
+    "Sharing"
+  ], 
+  [
+    "I hatch without food What am I?", 
+    "Hunger"
+  ], 
+  [
+    "When I get closer my tail grows longer, but when I go away my tail leads the way. What am I?", 
+    "Comet"
+  ], 
+  [
+    "When young, I am sweet in the sun. When middle-aged, I make you gay. When old, I am valued more than ever. What am I?", 
+    "Wine"
+  ], 
+  [
+    "Little Nancy Etticote, in a white petticoat. With a red nose; the longer she stands, the shorter she grows. What am I?", 
+    "Candle"
+  ], 
+  [
+    "I go through a door but never go in, and never come out. What am I?", 
+    "Keyhole"
+  ], 
+  [
+    "I cut through evil like a double edged sword, and chaos flees at my approach. Balance I single-handedly upraise, through battles fought with heart and mind, instead of with my gaze. What am I?", 
+    "Justice"
+  ], 
+  [
+    "Ripped from my ancestors home, beaten and burned, I become a bloodthirsty killer. What am I?", 
+    "Iron-ore"
+  ], 
+  [
+    "I have a title and many pages. I am a genteel of genteel descent. I am a killer veteran of war. I am a slave to my lord pledged to his service. What am I?", 
+    "Knight"
+  ], 
+  [
+    "The more holes you cover the lower I go. What am I?", 
+    "Recorder"
+  ], 
+  [
+    "In all the world, none can compare, I am a tiny weaver, my deadly cloth so silky and fair. What am I?", 
+    "Spider"
+  ], 
+  [
+    "I always go to bed with my shoes on. What am I?", 
+    "Horse"
+  ], 
+  [
+    "I am the outstretched fingers that seize and hold the wind. Wisdom flows from me in other hands. Upon me are sweet dreams dreamt, my merest touch brings laughter. What am I?", 
+    "Feather"
+  ], 
+  [
+    "I'm not a bird, but I can fly through the sky. I'm not a river, but I'm full of water. What am I?", 
+    "Cloud"
+  ], 
+  [
+    "My head bobs lazily in the sun. You think I'm cute for my face is yellow my hair is white and my body is green. What am I?", 
+    "Daisy"
+  ], 
+  [
+    "I work when I play and play when I work. What am I?", 
+    "Musician"
+  ], 
+  [
+    "An open ended barrel, I am shaped like a hive. I am filled with the flesh, and the flesh is alive. What am I?", 
+    "Thimble"
+  ], 
+  [
+    "I think you live beneath a roof that is upheld by me; I think you seldom walk abroad, but my fair form you see; I close you in on every side, you very dwelling pave, and probably I'll go with you At last into the grave. What am I?", 
+    "Wood"
+  ], 
+  [
+    "First I may be your servant's name; then your desires I may proclaim; And, when your mortal life is over hold all your wealth within my power. What am I?", 
+    "Will"
+  ], 
+  [
+    "I am the kind of dog that chases anything red. What am I?", 
+    "Bulldog"
+  ], 
+  [
+    "I am perfect with a head, perfect without a head; Perfect with a tail, perfect without a tail; Perfect with either, neither, or both. What am I?", 
+    "Wig"
+  ], 
+  [
+    "I am a precious stone, as clear as diamond. Seek me out while the sun's near the horizon. Though you can walk on water with my power, try to keep me, and I'll vanish in an hour. What am I?", 
+    "Ice"
+  ], 
+  [
+    "Soft and cuddly, I'll pull on your heart. But take my last name and I'll tear you apart. What am I?", 
+    "Teddy Bear"
+  ], 
+  [
+    "Lovely and round, I shine with pale light, grown in the darkness, a lady's delight. What am I?", 
+    "Pear"
+  ], 
+  [
+    "I have more shoes than anybody, but less feet than everyone. I am met in the morning, but departed in the night. I may shake as if I'm angry, but I won't bite. What am I?", 
+    "Ground"
+  ], 
+  [
+    "The letter S is added to pluralise most words in the English language. eg. Letter to Letters, Word to Words and Language to Languages. But I am a word that is pluralised with the addition of the letter C. What am I?", 
+    "Dice"
+  ], 
+  [
+    "I come with a train, and go with a train, and the train doesn't need me, but can't go without me. What am I?", 
+    "Noise"
+  ], 
+  [
+    "My first is second in line; I send shivers up your spine; not quite shining bright I glitter in the light. What am I?", 
+    "Ice"
+  ], 
+  [
+    "I can be repeated but rarely in the same way. I can't be changed but can be rewritten. I can be passed down, but should not be forgotten. What am I?", 
+    "History"
+  ], 
+  [
+    "I am a red drum which sound without being touched, and grow silent, when I am touched. What am I?", 
+    "Heart"
+  ], 
+  [
+    "I run smoother than any rhyme, I love to fall but cannot climb. What am I?", 
+    "Rain"
+  ], 
+  [
+    "I help engines spin and pants stay up. What am I?", 
+    "Belt"
+  ], 
+  [
+    "There is one in every corner and two in every room. What am I?", 
+    "O"
+  ], 
+  [
+    "You seek me out, when your hunger's ripe. I sit on four legs, and smoke a pipe. What am I?", 
+    "Stove"
+  ], 
+  [
+    "I am just two and two. I am hot. I am cold. I am the parent of numbers that cannot be told. I am a gift beyond measure, a matter of course. I am given with pleasure when taken by force. What am I?", 
+    "Kiss"
+  ], 
+  [
+    "I have thirteen hearts but no body or soul. What am I?", 
+    "Deck of Cards"
+  ], 
+  [
+    "When I come in, from sea to shore, twenty paces you'll see, No less, no more. What am I?", 
+    "Fog"
+  ], 
+  [
+    "I'm the source of all emotion, but I'm caged in a white prison. What am I?", 
+    "Heart"
+  ], 
+  [
+    "Break me and I am better, immediately set and harder to be broken again. What am I?", 
+    "Record"
+  ], 
+  [
+    "A dragons tooth in a mortals hand, I kill, I maim, I divide the land. What am I?", 
+    "Sword"
+  ], 
+  [
+    "I am slim and tall, many find me desirable and appealing, they touch me and I give a false good feeling, once I shine in splendor, but only once and then no more, for many I am 'to die for'. What am I?",
+    "Cigarette"
+  ],
+  [
+    "I am in the middle of water but am not an island. What am I?",
+    "T"
+  ],
+  [
+    "You use me between your head and your toes, the more I work the thinner I grow. What am I?",
+    "Soap"
+  ],
+  [
+    "I am the kind of soda you must not drink. What am I?",
+    "Baking Soda"
+  ],
+  [
+    "In your fire you hear me scream, creaking and whining, yet I am dead before you lay me in your hearth. What am I?",
+    "Log"
+  ],
+  [
+    "As I went over London Bridge I met my sister Jenny; I broke her neck and drank her blood and left her standing empty. What am I?",
+    "Gin"
+  ],
+  [
+    "I had a bright start, but I couldn't take the pressure. I consume everything, yet I don't eat anything. What am I?",
+    "Black Hole"
+  ],
+  [
+    "So cold, damp and dark I am. To stay you would refrain, yet those who occupy me do never complain. What am I?",
+    "Grave"
+  ],
+  [
+    "A thousand wheels, but move I do not. Call me what I am, call me a lot. What am I?",
+    "Parking Lot"
+  ],
+  [
+    "The shorter I am, the bigger I am. What am I?",
+    "Temper"
+  ],
+  [
+    "My first is in fish but no in snail. My second is in rabbit but not in tail. My third is in up but not in down. My fourth is in tiara but not in crown. My fifth is in tree you plainly see. My whole a food for you and me. What am I?",
+    "Fruit"
+  ],
+  [
+    "I have a little house in which I live all alone. My house has no doors or windows, and if I want to go out I must break through the wall. What am I?",
+    "Chicken"
+  ],
+  [
+    "I soar without wings, I see without eyes. I've traveled the universe to and fro. I've conquered the world, yet I've never been anywhere but home. What am I?",
+    "Imagination"
+  ],
+  [
+    "I have a little pool with two layers of wall around it. One white and soft and the other dark and hard. Amidst a light brown grassy lawn with an outline of a green grass. What am I?",
+    "Coconut"
+  ],
+  [
+    "I have a few points but we're not competing. I'll help you win when you're eating. What am I?",
+    "Fork"
+  ],
+  [
+    "I have to be broken before I can be used. What am I?",
+    "Egg"
+  ],
+  [
+    "Used left or right, I get to travel over cobblestone or gravel. Used up, I vie for sweet success, used down, I cause men great duress. What am I?",
+    "Thumb"
+  ],
+  [
+    "I can be thin but not fat; in your body but never on your placemat. I'm always better when I'm fresh, but you'll never see me in the flesh. What am I?",
+    "Air"
+  ],
+  [
+    "I am a word with 5 letters. Bold are the first; true are the second; playful are the third; clever are the fourth; forceful are the fifth. What am I?",
+    "Brave"
+  ],
+  [
+    "When I am caught, I am thrown away. When I escape, you itch all day. What am I?",
+    "Flea"
+  ],
+  [
+    "I can be simple or I can be complex. I can be found in this riddle or in everyday life. I can be shapes or even colors. What am I?",
+    "Pattern"
+  ],
+  [
+    "You find me behind the stars; or in a sixth, seventh, or third. It takes something round, a computer, and me to make pie. I am bigger than anything you can think of. What am I?",
+    "Infinity"
+  ],
+  [
+    "Face with a tree, skin like the sea. A great beast I am. Yet vermin frightens me. What am I?",
+    "Elephant"
+  ],
+  [
+    "I am born in fear, raised in truth, and I come to my own in deed. When comes a time that I'm called forth, I come to serve the cause of need. What am I?",
+    "Courage"
+  ],
+  [
+    "I have a small hill with seven holes. What am I?",
+    "Head"
+  ],
+  [
+    "Drop me and the world will shatter. You can always find me where you empty your bladder. What am I?",
+    "Mirror"
+  ],
+  [
+    "I am commonly ate before I'm born and after I'm dead. What am I?",
+    "Chicken"
+  ],
+  [
+    "I don't live within a house, nor do I live without. Most will use me when they come in, and again when they go out. What am I?",
+    "Door"
+  ],
+  [
+    "Searing 'cross the pitch-black skies, I scream in celebration, Yet moments later, my outburst through, I am naught but imagination. What am I?",
+    "Firework"
+  ], 
+  [
+    "Men seize me from my home, tear apart my flesh, drink the sweet blood, then cast my skin aside. What am I?", 
+    "Orange"
+  ], 
+  [
+    "I am always hungry, I must always be fed. The finger I lick will soon turn red. What am I?", 
+    "Fire"
+  ], 
+  [
+    "In buckles or lace, I help set the pace. The farther you go, the thinner I grow. What am I?", 
+    "Shoe"
+  ], 
+  [
+    "I can be swallowed, But I can also swallow you. What am I?", 
+    "Pride"
+  ], 
+  [
+    "I have a brother. However much we run, we do not reach each other. What am I?", 
+    "Wheels"
+  ], 
+  [
+    "I am a mini solar powered computer.  What am I?", 
+    "Calculator"
+  ], 
+  [
+    "When set loose I fly away. Never so cursed as when I go astray. What am I?", 
+    "Fart"
+  ], 
+  [
+    "The more you look at me, The less you see. What am I?", 
+    "Sun"
+  ], 
+  [
+    "Of the king I am blue and of the peasant I am red. Of the frog I am cold and of the dog I am hot instead. What am I?", 
+    "Blood"
+  ], 
+  [
+    "I stand in one place yet I fill a whole room. I can be filled with molten rock and come in every hue. What am I?", 
+    "Lamp"
+  ], 
+  [
+    "I am drawn by everyone without pen or pencil. What am I?", 
+    "Breath"
+  ], 
+  [
+    "I have feet on my head. What am I?", 
+    "Lice"
+  ], 
+  [
+    "I am the only vegetable or fruit that is never sold frozen, canned, processed, or in any other form but fresh. What am I?", 
+    "Lettuce"
+  ], 
+  [
+    "I make you weak at the worst of all times. I keep you safe, I keep you fine. I make your hands sweat and your heart grow cold. I visit the weak, but seldom the bold. What am I?", 
+    "Fear"
+  ], 
+  [
+    "I am a food with 5 letters. If you remove the first letter I am a form of energy. Remove two and I'm needed to live. Scramble the last 3 and you can drink me down. What am I?", 
+    "Wheat"
+  ], 
+  [
+    "Glittering points that downward thrust. Sparkling spears that never rust. What am I?", 
+    "Icicles"
+  ], 
+  [
+    "I am a band that does not perform, sing, or act. What am I?", 
+    "Rubber Band"
+  ], 
+  [
+    "I fly, yet I have no wings. I cry, yet I have no eyes. Darkness follows me. Lower light I never see. What am I?", 
+    "Cloud"
+  ], 
+  [
+    "A young man wants to have me, but when he has me he no longer wants me. Blade in hand he attacks me and does his best to remove me. Yet he knows that it is all in vain. What am I?", 
+    "Beard"
+  ], 
+  [
+    "I am higher than the king. What am I?", 
+    "Crown"
+  ], 
+  [
+    "Curtail me thrice, I am a youth; behead me once, a snake; complete, I'm often used, in truth, when certain steps you'd take. What am I?", 
+    "Ladder"
+  ], 
+  [
+    "I run around the city, but I never move. What am I?", 
+    "Wall"
+  ], 
+  [
+    "I am, in truth, a yellow fork from tables in the sky by inadvertent fingers dropped the awful cutlery. Of mansions never quite disclosed and never quite concealed the apparatus of the dark to ignorance revealed. What am I?", 
+    "Lightning"
+  ], 
+  [
+    "I am the kind of nut that is empty at the center and has no shell. What am I?", 
+    "Donut"
+  ], 
+  [
+    "Though not a plant, I have leaves. though not a beast, I have spine. Though many wouldn't need me, I am more valuable than wine. What am I?", 
+    "Book"
+  ], 
+  [
+    "I say everything I hear to others around. I'm not an animal, nor part of the human race. I will, immediately, repeat after you; But only if my tail is in place. What am I?", 
+    "Microphone"
+  ], 
+  [
+    "I need to be taken from you before you can have me. What am I?", 
+    "Picture"
+  ], 
+  [
+    "What is it that makes tears without sorrow. And takes its journey to heaven? What am I?", 
+    "Smoke"
+  ], 
+  [
+    "I go inside boots and outside shoes. What am I?", 
+    "Ankles"
+  ], 
+  [
+    "I am an English word that is as long as I am valued.  What am I?", 
+    "Four"
+  ], 
+  [
+    "When you stop and look, you can always see me. If you try to touch, you cannot feel me. I cannot move, but as you near me, I will move away from you. What am I?", 
+    "Horizon"
+  ], 
+  [
+    "I have Eighty-eight keys but cannot open a single door. What am I?", 
+    "Piano"
+  ], 
+  [
+    "When I live I cry, if you don't kill me I'll die. What am I?", 
+    "Candle"
+  ], 
+  [
+    "Long and thin, red within, with a nail at the end. What am I?", 
+    "Finger"
+  ], 
+  [
+    "My first is high, my second damp, my whole a tie, a writer's cramp. What am I?", 
+    "Hyphen"
+  ], 
+  [
+    "I am long and slim, works in light. Has but one eye, and an awful bite. What am I?", 
+    "Needle"
+  ], 
+  [
+    "I'm sometimes white, but most often I'm black. I take you there, but never bring you back. What am I?", 
+    "Hearse"
+  ], 
+  [
+    "I am whole but incomplete. I have no eyes, yet I see. You can see, and see right through me. My largest part is one fourth of what I once was. What am I?", 
+    "Skeleton"
+  ], 
+  [
+    "I have leaves on my fruit, my fruit is on my leaves. What am I?", 
+    "Pineapple"
+  ], 
+  [
+    "Squeeze me and I cry tears as red as my flesh, but my heart is made of stone. What am I?", 
+    "Cherry"
+  ], 
+  [
+    "I've got a beautiful, beautiful hall all walled in red velvet, with all white armchairs made of bone, and in the middle a woman dances. What am I?", 
+    "Mouth"
+  ], 
+  [
+    "Golden treasure I contain, guarded by hundreds and thousands. Stored in a labyrinth where no man walks, Yet men come often to seize my gold. By smoke I am overcome and robbed, then left to build my treasure anew. What am I?", 
+    "Beehive"
+  ], 
+  [
+    "In the sun I like to play; in the rain I goes away; walk or run I always follow; in the mud I always wallow. What am I?", 
+    "Shadow"
+  ], 
+  [
+    "My first is a heir; My second's a snare; my whole is the offspring of fancy; which I sent, out of play, upon Valentine's day, As a token of love, to my Nancy. What am I?", 
+    "Sonnet"
+  ], 
+  [
+    "Crooked as a rainbow, and slick as a plate, ten thousand horses can't pull me straight. What am I?", 
+    "River"
+  ], 
+  [
+    "Flat as a leaf, round as a ring. I have two eyes, but can't see a thing. What am I?", 
+    "Button"
+  ], 
+  [
+    "You can read me both ways, I wear; One way it's a number, reversed a snare. What am I?", 
+    "Ten"
+  ], 
+  [
+    "My first is in some but not in all. My second is in tiny but not in tall. My third in little but no in big. My fourth in port but not in pig. My whole is made in nature's way. For clothing, rugs used every day. What am I?", 
+    "Silk"
+  ], 
+  [
+    "Fatherless and motherless. I was born without sin, roared when it came into the world. But I never spoke again. What am I?", 
+    "Thunder"
+  ], 
+  [
+    "I am an animal that's black, white, and asian. What am I?", 
+    "Panda"
+  ], 
+  [
+    "I can be hairy and itchy all over. I hang on a stick. I can be the scariest thing you have ever seen. I stand in the middle of nowhere. What am I?", 
+    "Scarecrow"
+  ], 
+  [
+    "I turn around once. What is out will not get in. I turn around again. What is in will not get out. What am I?", 
+    "Key"
+  ], 
+  [
+    "I am used when you jump off a bridge for fun. What am I?", 
+    "Bungee"
+  ], 
+  [
+    "Take off my skin, I won't cry, but you will. What am I?", 
+    "Onion"
+  ], 
+  [
+    "I have memories, but none of my own, whatever's on my inside is what is shown. If I'm ever different it's because you changed me, I feel like a decoration, here for you to arrange me. What am I?", 
+    "Picture Frame"
+  ], 
+  [
+    "I am an odd number that become even when beheaded. What am I?", 
+    "Seven"
+  ], 
+  [
+    "Late afternoons I often bathe. I'll soak in water piping hot. My essence goes through. My see through clothes. Used up am I \u2013 I've gone to pot. What am I?", 
+    "Teabag"
+  ], 
+  [
+    "I move without wings, Between silken string, I leave as you find, My substance behind. What am I?", 
+    "Spider"
+  ], 
+  [
+    "I was was, before was was was. What am I?", 
+    "Is"
+  ], 
+  [
+    "Draw, fire, or fill me; I'm still empty. What am I?", 
+    "Blank"
+  ], 
+  [
+    "I fill a room but take no space. What am I?", 
+    "Light"
+  ], 
+  [
+    "Oh lord! I am not worthy! I bend my limbs to the ground. I cry, yet without a sound. Let me drink of waters deep. And in silence I will weep. What am I?", 
+    "Willow"
+  ], 
+  [
+    "I have green hair, a round red head and a long thin white beard. What am I?", 
+    "Radish"
+  ], 
+  [
+    "I am filled with garb, the price is free. Just return what you don't need. What am I?", 
+    "Closet"
+  ], 
+  [
+    "A single syllable do I claim, black was my most famous name; Fetal to mortals here below, thousands have I slain in a single blow. What am I?", 
+    "Plague"
+  ], 
+  [
+    "My keepers feed me colored balls. With sticks they store on my den walls. Sometimes I store them in my pouch. Sometimes deep in my belly; ouch! What am I?", 
+    "Billiard Table"
+  ], 
+  [
+    "I smell like blue paint, pours like green paint, and I look like a red truck. What am I?", 
+    "Red Paint"
+  ], 
+  [
+    "I am merry creature in pleasant time of year, as in but certain seasons, I sing that you can hear; And yet I'm made a by-word, A very perfect mock; Compared to foolish persons, And silliest of all folk. What am I?", 
+    "Cuckoo"
+  ], 
+  [
+    "I fly to any foreign parts, assisted by my spreading wings. My body holds an hundred hearts, Nay, I will tell you stranger things when I am not in haste I ride, and then I mend my pace anon. What am I?", 
+    "Ship"
+  ], 
+  [
+    "If you drop me I'm sure to crack. But give me a smile and I'll always smile back. What am I?", 
+    "Mirror"
+  ], 
+  [
+    "Weight in my belly, trees on my back, nails in my ribs, feet I do lack. What am I?", 
+    "Boat"
+  ], 
+  [
+    "Blade to blade I always win, My foe laid low and even. Yard by yard through thick and thin, I'm busiest in season. What am I?", 
+    "Lawn Mower"
+  ], 
+  [
+    "I have a gown but I'm not a priest; I have a crown but I'm not a king. What am I?", 
+    "Rooster"
+  ], 
+  [
+    "I start in little but I end in full, you'll find me in half and complete. What am I?", 
+    "L"
+  ], 
+  [
+    "In Paris but not in France, the thinnest of its siblings. What am I?", 
+    "I"
+  ], 
+  [
+    "Cold head and feet; round as a ball; always turning around myself. What am I?", 
+    "Earth"
+  ], 
+  [
+    "The warmer I am, the fresher I am. What am I?", 
+    "Bread"
+  ], 
+  [
+    "I'm at the head of an elephant and at the tail of a squirrel. What am I?", 
+    "El"
+  ], 
+  [
+    "I am Invisible Man's drink at snack time. What am I?", 
+    "Evaporated Milk"
+  ], 
+  [
+    "Marking mortal privation, when firmly in place. An enduring summation, inscribed in my face. What am I?", 
+    "Tombstone"
+  ], 
+  [
+    "I have three feet but no arms or legs. What am I?", 
+    "Yard"
+  ], 
+  [
+    "My voice is tender, my waist is slender and I'm often invited to play. Yet wherever I go, I must take my bow or else I have nothing to say. What am I?", 
+    "Violin"
+  ], 
+  [
+    "I have no head, and a tail I lack, but I do have arms, and legs, and back; I inhabit the palace, the tavern, the cot, 'tis a beggarly residence where I am not. If a monarch were present (I tell you no fable), I still should be placed at the head of the table. What am I?", 
+    "Chair"
+  ], 
+  [
+    "Though it be cold, I wear no clothes, the frost and snow I never fear; I value neither shoes nor hose, And yet I wander far and near: My diet is forever good, I drink no cider, port, nor sack, what Providence doth send for food, I neither buy, nor sell, nor lack. What am I?", 
+    "Fish"
+  ], 
+  [
+    "There's not a kingdom on the earth, I haven't traveled over and over, and though I know not whence my birth, yet when I come, you know my roar. I through the town do take my flight, and through the fields and meadows green, and whether it be day or night, I neither am nor can be seen. What am I?", 
+    "Wind"
+  ], 
+  [
+    "Six letters do my name compound; among the aged oft I'm found; The shepherd also, by the brook, hears me when Leaning on his crook; but in the middle me divide, and take the half on either side, each backward read, a liquor tell, ev'ry gay toper knows it well. What am I?", 
+    "Murmur"
+  ], 
+  [
+    "They took me from my mother's side where I was bravely bred and when to age I did become they did cut off my head. They gave to me some diet drink that often made me mad but it made peace between two kings and made two lovers glad. What am I?", 
+    "Quill"
+  ], 
+  [
+    "I am the black child of a white father, a wingless bird, flying even to the clouds of heaven. I give birth to tears of mourning in pupils that meet me, even though there is no cause for grief, and at once on my birth I am dissolved into air.  What am I?", 
+    "Smoke"
+  ], 
+  [
+    "Although a human shape I wear, Mother I never had; And though no sense nor life I share, in finest silks I'm clad. By every miss I'm valued much, beloved and highly prized; still my cruel fate is such by boys I am often despised. What am I?", 
+    "Doll"
+  ], 
+  [
+    "Every dawn begins with me. At dusk I'll be the first you see, and daybreak couldn't come without. What midday centers all about. Daises grow from me, I'm told. And when I come, I end all code, but in the sun I won't be found. Yet still, each day I'll be around. What am I?", 
+    "D"
+  ], 
+  [
+    "In wealth I abound; in water I stand; as a fencer I'm valued all over the land; at Venice I'm famous; by farmers I'm prized; respected by law, yet huntsmen despised; consternation and ruin ensue when I break; And the beasts of the forest advantage won't take. What am I?", 
+    "Bank"
+  ], 
+  [
+    "We are little airy creatures, all of different voice and features, one of us in glass is set. One of us you'll find in jet. Another you may see in tin. And the fourth a box within. If the fifth you should pursue, it can never fly from you. What am I?", 
+    "Vowels"
+  ]
+]

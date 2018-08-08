@@ -1,0 +1,168 @@
+{
+  "communityIDs": {
+    "0": "EN", 
+    "1": "FR", 
+    "10": "NL", 
+    "100": "UNDEFINED", 
+    "11": "RO", 
+    "12": "ID", 
+    "13": "DE", 
+    "14": "E2", 
+    "15": "AR", 
+    "16": "PH", 
+    "17": "LT", 
+    "18": "JP", 
+    "19": "CH", 
+    "2": "RU", 
+    "20": "FI", 
+    "21": "CZ", 
+    "22": "SK", 
+    "23": "HR", 
+    "24": "BG", 
+    "25": "LV", 
+    "26": "HE", 
+    "27": "IT", 
+    "29": "EE", 
+    "3": "BR", 
+    "31": "PT", 
+    "4": "ES", 
+    "5": "CN", 
+    "6": "TR", 
+    "7": "VK", 
+    "8": "PL", 
+    "9": "HU"
+  }, 
+  "emoteIDs": {
+    "clap": 5, 
+    "confetti": 9, 
+    "cry": 2, 
+    "dance": 0, 
+    "facepaw": 7, 
+    "flag": 10, 
+    "highfive": 13, 
+    "hug": 17, 
+    "hugme": 18, 
+    "kiss": 3, 
+    "kissme": 22, 
+    "kissother": 21, 
+    "laugh": 1, 
+    "marshmellow": 11, 
+    "rage": 4, 
+    "rps": 25, 
+    "selfie": 12, 
+    "sing": 20, 
+    "sit": 8, 
+    "sleep": 6, 
+    "slowdance": 24, 
+    "toot": 16
+  }, 
+  "gameIDs": {
+    "15": "Nekodancer", 
+    "17": "Deadmaze", 
+    "4": "Transformice", 
+    "6": "Fortoresse", 
+    "7": "Bouboum"
+  }, 
+  "greets": {
+    "anjelique": [
+      "Heyy, our greek goddess has arrived."
+    ], 
+    "anythin": [
+      "No.", 
+      "Bye Anythin.", 
+      "No one likes you.", 
+      "welcome ", 
+      "Contrary to popular belief, I do think you're awesome", 
+      "Despite what everyone says, I still fancy you the most"
+    ], 
+    "ediz": [
+      "Hi diddle diddle, time for a riddle!", 
+      "What is it that no man wants to have but no man wants to lose?", 
+      "What is the beginning of eternity, the end of time and space, the beginning of every end and the end of every race?", 
+      "Something smells... ohi Ediz!", 
+      "hi"
+    ], 
+    "edizzy": [
+      "I have no friends, that is why I welcome myself."
+    ], 
+    "edizzy2": [
+      "u smell"
+    ],
+    "epifistu": [
+      "avalia meu mapa &lt;3"
+    ], 
+    "hybinkunduz": [
+      "slm"
+    ], 
+    "kiwiseza94": [
+      "ayyyyy statue bro?"
+    ], 
+    "minnieme": [
+      "Hello sweetheart, the sunshine of the tribe!"
+    ], 
+    "minniemoussy": [
+      "Welcomeeee Suzanne! Don't forget to breathe while talking!"
+    ], 
+    "no_0ne": [
+      "If no one logged in, then who am I greeting?", 
+      "o_0"
+    ], 
+    "noexcuses": [
+      "King of Bootcamp, I salute you!"
+    ], 
+    "peppio": [
+      "good afternoon pepperoni"
+    ], 
+    "pikathree": [
+      "Hey Kanye, can I be your Kardashian?"
+    ], 
+    "rosaey": [
+      "Hi Rosey posey, the cute blossoming rose of the tribe!", 
+      "Roses are red, violets are blue, no matter what happens, we will always like you"
+    ], 
+    "savorymuffins": [
+      "In memory of Specialkness, who has died in an online mouse dating game called Transformice. RIP 2012-2016, she shall be remembered as a cute savory muffin."
+    ], 
+    "slothsrus": [
+      "hi mr sloth of the cutie clan"
+    ], 
+    "tribe": [
+      "Hello hello!", 
+      "Welcome!!", 
+      "Rise and shine, cute member!", 
+      "Hi!", 
+      "Howdy!", 
+      "Hiyaaaaaaa have you been in room 3 lately?"
+    ], 
+    "ttex": [
+      "Hi handsome ;-)."
+    ], 
+    "villiwonka": [
+      "Villi is here guys, roll out the red carpet!"
+    ], 
+    "xaemus": [
+      "Hey Xaemus, koekje erbij?", 
+      "Kedeng-kedeng kedeng-kedeng oehoeeeee"
+    ], 
+    "yubbs": [
+      "Hey Yubbs, I like the shirt you're wearing today ;-).", 
+      "TRANSFORMICE 2016 WOOOOOOOO"
+    ]
+  }, 
+  "leaders": [
+    "minnieme", 
+    "anythin", 
+    "jealyhnew", 
+    "specialkness", 
+    "villiwonka", 
+    "ediz"
+  ], 
+  "offline-messages": {
+    "headsup!": [
+      "Slothsrus: It's a one sexy Sloth!!"
+    ], 
+    "test": [
+      "Ediz: "
+    ]
+  }
+}

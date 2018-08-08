@@ -1,0 +1,80 @@
+[08-08-2018|21:32:57][INFO] [TFMDATA] Got TFM Data successfully
+[08-08-2018|21:32:57][DEBUG] [OUT] Connection packet: '\x01\x04\x00\x1c\x01\x02\x9a'
+[08-08-2018|21:32:57][DEBUG] [OUT] Command packet: '\x01\x07\x01\x06\x1a\x00\x03mod'
+[08-08-2018|21:32:57][DEBUG] [IN] (26, 3): "\x00\x00'\xdb5\x00\x02tr\x00\x02trE!M\x94"
+[08-08-2018|21:32:57][DEBUG] [OUT] Ping packet: '\x01\x025\x1a\x1a'
+[08-08-2018|21:32:57][DEBUG] [OUT] Login packet: Nice try :)
+[08-08-2018|21:32:57][DEBUG] [IN] (20, 4): '\x00\x00'
+[08-08-2018|21:32:57][DEBUG] [IN] (16, 9): '\x01\x1a\x01\x00'
+[08-08-2018|21:32:57][DEBUG] [IN] (28, 62): '\x01'
+[08-08-2018|21:32:57][DEBUG] [IN] (26, 12): '\x01\x00\x00\x00\x00'
+[08-08-2018|21:32:58][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:32:58][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:32:58][DEBUG] [OUT] Command packet: '\x01\x0b7\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:32:59][DEBUG] [OUT] Join chat packet: '\x01\x108<\x03\x006\x00\x00\x00\x00\x00\x05#help\x01'
+[08-08-2018|21:33:00][DEBUG] [OUT] Join chat packet: '\x01\x139<\x03\x006\x00\x00\x00\x01\x00\x08#dm-help\x01'
+[08-08-2018|21:33:12][DEBUG] [OUT] Ping packet: '\x01\x02:\x1a\x1a'
+[08-08-2018|21:33:27][DEBUG] [OUT] Ping packet: '\x01\x02;\x1a\x1a'
+[08-08-2018|21:33:42][DEBUG] [OUT] Ping packet: '\x01\x02<\x1a\x1a'
+[08-08-2018|21:33:57][DEBUG] [OUT] Command packet: '\x01\x07=\x06\x1a\x00\x03mod'
+[08-08-2018|21:33:57][DEBUG] [OUT] Ping packet: '\x01\x02>\x1a\x1a'
+[08-08-2018|21:33:58][DEBUG] [OUT] Command packet: '\x01\x0b?\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:33:59][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:33:59][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:34:12][DEBUG] [OUT] Ping packet: '\x01\x02@\x1a\x1a'
+[08-08-2018|21:34:27][DEBUG] [OUT] Ping packet: '\x01\x02A\x1a\x1a'
+[08-08-2018|21:34:42][DEBUG] [OUT] Ping packet: '\x01\x02B\x1a\x1a'
+[08-08-2018|21:34:57][DEBUG] [OUT] Command packet: '\x01\x07C\x06\x1a\x00\x03mod'
+[08-08-2018|21:34:57][DEBUG] [OUT] Ping packet: '\x01\x02D\x1a\x1a'
+[08-08-2018|21:34:58][DEBUG] [OUT] Command packet: '\x01\x0bE\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:35:00][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:35:00][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:35:12][DEBUG] [OUT] Ping packet: '\x01\x02F\x1a\x1a'
+[08-08-2018|21:35:27][DEBUG] [OUT] Ping packet: '\x01\x02G\x1a\x1a'
+[08-08-2018|21:35:42][DEBUG] [OUT] Ping packet: '\x01\x02H\x1a\x1a'
+[08-08-2018|21:35:57][DEBUG] [OUT] Command packet: '\x01\x07I\x06\x1a\x00\x03mod'
+[08-08-2018|21:35:57][DEBUG] [OUT] Ping packet: '\x01\x02J\x1a\x1a'
+[08-08-2018|21:35:58][DEBUG] [OUT] Command packet: '\x01\x0bK\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:36:01][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:36:01][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:36:12][DEBUG] [OUT] Ping packet: '\x01\x02L\x1a\x1a'
+[08-08-2018|21:36:27][DEBUG] [OUT] Ping packet: '\x01\x02M\x1a\x1a'
+[08-08-2018|21:36:42][DEBUG] [OUT] Ping packet: '\x01\x02N\x1a\x1a'
+[08-08-2018|21:36:57][DEBUG] [OUT] Command packet: '\x01\x07O\x06\x1a\x00\x03mod'
+[08-08-2018|21:36:57][DEBUG] [OUT] Ping packet: '\x01\x02P\x1a\x1a'
+[08-08-2018|21:36:58][DEBUG] [OUT] Command packet: '\x01\x0bQ\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:37:02][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:37:02][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:37:12][DEBUG] [OUT] Ping packet: '\x01\x02R\x1a\x1a'
+[08-08-2018|21:37:27][DEBUG] [OUT] Ping packet: '\x01\x02S\x1a\x1a'
+[08-08-2018|21:37:42][DEBUG] [OUT] Ping packet: '\x01\x02T\x1a\x1a'
+[08-08-2018|21:37:57][DEBUG] [OUT] Command packet: '\x01\x07U\x06\x1a\x00\x03mod'
+[08-08-2018|21:37:57][DEBUG] [OUT] Ping packet: '\x01\x02V\x1a\x1a'
+[08-08-2018|21:37:58][DEBUG] [OUT] Command packet: '\x01\x0bW\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:38:03][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:38:03][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:38:12][DEBUG] [OUT] Ping packet: '\x01\x02X\x1a\x1a'
+[08-08-2018|21:38:27][DEBUG] [OUT] Ping packet: '\x01\x02Y\x1a\x1a'
+[08-08-2018|21:38:42][DEBUG] [OUT] Ping packet: '\x01\x02Z\x1a\x1a'
+[08-08-2018|21:38:57][DEBUG] [OUT] Command packet: '\x01\x07[\x06\x1a\x00\x03mod'
+[08-08-2018|21:38:57][DEBUG] [OUT] Ping packet: '\x01\x02\\\x1a\x1a'
+[08-08-2018|21:38:58][DEBUG] [OUT] Command packet: '\x01\x0b]\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:39:04][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:39:04][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:39:12][DEBUG] [OUT] Ping packet: '\x01\x02^\x1a\x1a'
+[08-08-2018|21:39:27][DEBUG] [OUT] Ping packet: '\x01\x02_\x1a\x1a'
+[08-08-2018|21:39:42][DEBUG] [OUT] Ping packet: '\x01\x02`\x1a\x1a'
+[08-08-2018|21:39:57][DEBUG] [OUT] Command packet: '\x01\x07a\x06\x1a\x00\x03mod'
+[08-08-2018|21:39:57][DEBUG] [OUT] Ping packet: '\x01\x02b\x1a\x1a'
+[08-08-2018|21:39:58][DEBUG] [OUT] Command packet: '\x01\x0bc\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:40:05][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:40:05][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:40:12][DEBUG] [OUT] Ping packet: '\x01\x02\x00\x1a\x1a'
+[08-08-2018|21:40:27][DEBUG] [OUT] Ping packet: '\x01\x02\x01\x1a\x1a'
+[08-08-2018|21:40:42][DEBUG] [OUT] Ping packet: '\x01\x02\x02\x1a\x1a'
+[08-08-2018|21:40:57][DEBUG] [OUT] Command packet: '\x01\x07\x03\x06\x1a\x00\x03mod'
+[08-08-2018|21:40:57][DEBUG] [OUT] Ping packet: '\x01\x02\x04\x1a\x1a'
+[08-08-2018|21:40:58][DEBUG] [OUT] Command packet: '\x01\x0b\x05\x06\x1a\x00\x07mapcrew'
+[08-08-2018|21:41:06][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:41:06][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:41:12][DEBUG] [OUT] Ping packet: '\x01\x02\x06\x1a\x1a'

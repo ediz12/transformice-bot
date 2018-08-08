@@ -1,0 +1,7 @@
+[08-08-2018|21:55:19][ERROR] Failed to get TFM data (<urlopen error <urlopen error [Errno 11001] getaddrinfo failed>>). Trying alternative
+[08-08-2018|21:55:19][ERROR] Alternative data failed. (<urlopen error <urlopen error [Errno 11001] getaddrinfo failed>>).
+[08-08-2018|21:55:19][ERROR] Connection failed: An error occurred while connecting: [Failure instance: Traceback (failure with no frames): <type 'exceptions.TypeError'>: 'bool' object has no attribute '__getitem__'
+].
+[08-08-2018|21:55:19][INFO] I will reconnect in 60 seconds.
+[08-08-2018|21:55:20][ERROR] Connection failed: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+[08-08-2018|21:55:20][INFO] I will reconnect in 60 seconds.
